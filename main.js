@@ -1,0 +1,1 @@
+$('#header.info').css('display','none');
