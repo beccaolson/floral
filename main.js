@@ -1,1 +1,3 @@
-$('#header.info').css('display','none');
+$(function() {
+	$('#header.info').css('display','none');
+});
